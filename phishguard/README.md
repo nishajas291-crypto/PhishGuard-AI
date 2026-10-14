@@ -197,9 +197,11 @@ PhishGuard AI is a defensive tool. Use it only on messages you are authorised to
 
 ## Team
 
-**Team:** [Your Team Name]
-**Members:** [Name 1], [Name 2]
-**College:** [College Name]
+Team: ZYNEX
+
+Members: Jasminenisha H, Barjana M, Asin Aswanthitha S
+
+College: S.Veerasamy Chettiar College of Engineering and Technology
 
 ---
 
