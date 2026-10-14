@@ -126,7 +126,7 @@ phishguard/
 ## Installation
 
 ```bash
-git clone <https://nishajas291-crypto.github.io/PhishGuard-AI/>
+git clone <https://github.com/nishajas291-crypto/PhishGuard-AI.git>
 cd phishguard
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
