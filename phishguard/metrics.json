@@ -1,0 +1,8 @@
+{
+ "data": "synthetic",
+ "precision": 1.0,
+ "recall": 0.997,
+ "f1": 0.999,
+ "false_positive_rate": 0.0,
+ "test_size": 750
+}
